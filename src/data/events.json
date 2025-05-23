@@ -1,0 +1,251 @@
+[
+    {
+      "title": "Team Standup",
+      "date": "2025-05-05",
+      "startTime": "2025-05-05T10:00:00",
+      "endTime": "2025-05-05T10:30:00",
+      "color": "#ffd6a5",
+      "category": "meeting"
+    },
+    {
+      "title": "Team Standup",
+      "date": "2025-05-07",
+      "startTime": "2025-05-07T10:00:00",
+      "endTime": "2025-05-07T10:30:00",
+      "color": "#ffd6a5",
+      "category": "meeting"
+    },
+    {
+      "title": "Team Standup",
+      "date": "2025-05-12",
+      "startTime": "2025-05-12T10:00:00",
+      "endTime": "2025-05-12T10:30:00",
+      "color": "#ffd6a5",
+      "category": "meeting"
+    },
+    {
+      "title": "Sprint Planning",
+      "date": "2025-05-08",
+      "startTime": "2025-05-08T09:00:00",
+      "endTime": "2025-05-08T11:00:00",
+      "color": "#ffcad4",
+      "category": "planning"
+    },
+    {
+      "title": "Sprint Planning",
+      "date": "2025-06-05",
+      "startTime": "2025-06-05T09:00:00",
+      "endTime": "2025-06-05T11:00:00",
+      "color": "#ffcad4",
+      "category": "planning"
+    },
+    {
+      "title": "Client Demo",
+      "date": "2025-05-15",
+      "startTime": "2025-05-15T14:00:00",
+      "endTime": "2025-05-15T15:00:00",
+      "color": "#ffc6ff",
+      "category": "presentation"
+    },
+    {
+      "title": "Client Demo",
+      "date": "2025-07-10",
+      "startTime": "2025-07-10T14:00:00",
+      "endTime": "2025-07-10T15:00:00",
+      "color": "#ffc6ff",
+      "category": "presentation"
+    },
+    {
+      "title": "Lunch & Learn",
+      "date": "2025-05-20",
+      "startTime": "2025-05-20T12:00:00",
+      "endTime": "2025-05-20T13:00:00",
+      "color": "#fdffb6",
+      "category": "learning"
+    },
+    {
+      "title": "Lunch & Learn",
+      "date": "2025-06-17",
+      "startTime": "2025-06-17T12:00:00",
+      "endTime": "2025-06-17T13:00:00",
+      "color": "#fdffb6",
+      "category": "learning"
+    },
+    {
+      "title": "Bug Triage",
+      "date": "2025-05-22",
+      "startTime": "2025-05-22T11:00:00",
+      "endTime": "2025-05-22T12:00:00",
+      "color": "#caffbf",
+      "category": "maintenance"
+    },
+    {
+      "title": "Bug Triage",
+      "date": "2025-06-19",
+      "startTime": "2025-06-19T11:00:00",
+      "endTime": "2025-06-19T12:00:00",
+      "color": "#caffbf",
+      "category": "maintenance"
+    },
+    {
+      "title": "Product Review",
+      "date": "2025-05-25",
+      "startTime": "2025-05-25T13:00:00",
+      "endTime": "2025-05-25T14:30:00",
+      "color": "#ffd6a5",
+      "category": "review"
+    },
+    {
+      "title": "Product Review",
+      "date": "2025-07-22",
+      "startTime": "2025-07-22T13:00:00",
+      "endTime": "2025-07-22T14:30:00",
+      "color": "#ffd6a5",
+      "category": "review"
+    },
+    {
+      "title": "Retrospective",
+      "date": "2025-05-29",
+      "startTime": "2025-05-29T15:00:00",
+      "endTime": "2025-05-29T16:30:00",
+      "color": "#ffadad",
+      "category": "retro"
+    },
+    {
+      "title": "Retrospective",
+      "date": "2025-06-26",
+      "startTime": "2025-06-26T15:00:00",
+      "endTime": "2025-06-26T16:30:00",
+      "color": "#ffadad",
+      "category": "retro"
+    },
+    {
+      "title": "Deployment",
+      "date": "2025-06-02",
+      "startTime": "2025-06-02T20:00:00",
+      "endTime": "2025-06-02T22:00:00",
+      "color": "#f1faee",
+      "category": "release"
+    },
+    {
+      "title": "Deployment",
+      "date": "2025-07-07",
+      "startTime": "2025-07-07T20:00:00",
+      "endTime": "2025-07-07T22:00:00",
+      "color": "#f1faee",
+      "category": "release"
+    },
+    {
+      "title": "All Hands",
+      "date": "2025-06-09",
+      "startTime": "2025-06-09T10:00:00",
+      "endTime": "2025-06-09T11:30:00",
+      "color": "#ffe5ec",
+      "category": "company"
+    },
+    {
+      "title": "All Hands",
+      "date": "2025-08-04",
+      "startTime": "2025-08-04T10:00:00",
+      "endTime": "2025-08-04T11:30:00",
+      "color": "#ffe5ec",
+      "category": "company"
+    },
+    {
+      "title": "UX Review",
+      "date": "2025-06-11",
+      "startTime": "2025-06-11T14:00:00",
+      "endTime": "2025-06-11T15:30:00",
+      "color": "#d0f4de",
+      "category": "design"
+    },
+    {
+      "title": "UX Review",
+      "date": "2025-07-15",
+      "startTime": "2025-07-15T14:00:00",
+      "endTime": "2025-07-15T15:30:00",
+      "color": "#d0f4de",
+      "category": "design"
+    },
+    {
+      "title": "Strategy Session",
+      "date": "2025-06-23",
+      "startTime": "2025-06-23T09:00:00",
+      "endTime": "2025-06-23T11:00:00",
+      "color": "#b5ead7",
+      "category": "strategy"
+    },
+    {
+      "title": "Strategy Session",
+      "date": "2025-08-11",
+      "startTime": "2025-08-11T09:00:00",
+      "endTime": "2025-08-11T11:00:00",
+      "color": "#b5ead7",
+      "category": "strategy"
+    },
+    {
+      "title": "Training Workshop",
+      "date": "2025-07-02",
+      "startTime": "2025-07-02T13:00:00",
+      "endTime": "2025-07-02T16:00:00",
+      "color": "#caffbf",
+      "category": "training"
+    },
+    {
+      "title": "Training Workshop",
+      "date": "2025-08-18",
+      "startTime": "2025-08-18T13:00:00",
+      "endTime": "2025-08-18T16:00:00",
+      "color": "#caffbf",
+      "category": "training"
+    },
+    {
+      "title": "Quarterly Planning",
+      "date": "2025-07-29",
+      "startTime": "2025-07-29T09:00:00",
+      "endTime": "2025-07-29T12:00:00",
+      "color": "#ffadad",
+      "category": "planning"
+    },
+    {
+      "title": "Quarterly Planning",
+      "date": "2025-08-26",
+      "startTime": "2025-08-26T09:00:00",
+      "endTime": "2025-08-26T12:00:00",
+      "color": "#ffadad",
+      "category": "planning"
+    },
+    {
+      "title": "Team Building",
+      "date": "2025-08-08",
+      "startTime": "2025-08-08T13:00:00",
+      "endTime": "2025-08-08T17:00:00",
+      "color": "#fdffb6",
+      "category": "team"
+    },
+    {
+      "title": "Team Standup 2",
+      "date": "2025-05-12",
+      "startTime": "2025-05-12T12:15:00",
+      "endTime": "2025-05-12T13:45:00",
+      "color": "#ffd6a5",
+      "category": "meeting"
+    },
+    {
+      "title": "Client Call (Colliding)",
+      "date": "2025-05-15",
+      "startTime": "2025-05-15T14:30:00",
+      "endTime": "2025-05-15T15:30:00",
+      "color": "#ffc6ff",
+      "category": "presentation"
+    },
+    {
+      "title": "Emergency Fix (Colliding)",
+      "date": "2025-06-02",
+      "startTime": "2025-06-02T21:00:00",
+      "endTime": "2025-06-02T23:00:00",
+      "color": "#caffbf",
+      "category": "maintenance"
+    }
+  ]
+  

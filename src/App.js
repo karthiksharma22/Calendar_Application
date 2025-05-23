@@ -1,25 +1,25 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useState, useEffect } from "react";
+import Sidebar from "./components/Sidebar";
+import MainContent from "./components/MainContent";
+import events from "./data/events.json";
+import "./index.css";
 
-function App() {
+export default function App() {
+  const [darkMode, setDarkMode] = useState(true);
+  const [selectedDate, setSelectedDate] = useState(new Date());
+
+  useEffect(() => {
+    document.documentElement.classList.toggle("dark", darkMode);
+  }, [darkMode]);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className={`app-container ${darkMode ? "dark" : ""}`}>
+      <Sidebar darkMode={darkMode} setDarkMode={setDarkMode} />
+      <MainContent
+        events={events}
+        selectedDate={selectedDate}
+        setSelectedDate={setSelectedDate}
+      />
     </div>
   );
 }
-
-export default App;
